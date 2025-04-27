@@ -2,8 +2,8 @@
     {
       "id": 1,
       "title": "Aurora","artist": "Dreamscape","year": 2021,"genre": "Electro",
-      "image": "https://via.placeholder.com/300x300?text=Aurora",
-      "faixas": [{"name": "Aurora - Intro","url": "audios/aurora-intro.mp3"},{"name": "Aurora - Main Theme","url": "audios/aurora-theme.mp3"}
+      "image": "https://akamai.sscdn.co/tb/650x650/palcomp3-playlists/7d8123ce-850d-4624-a6c1-14ecadb0b291.jpg",
+      "faixas": [{"name": "Aurora - Intro","url": "https://palcocdn.akamaized.net/a/7/a/4/tedrosoficial-na-minha-estacao-17d88dd0.mp3"},{"name": "Aurora - Main Theme","url": "https://palcocdn.akamaized.net/a/7/a/4/tedrosoficial-na-minha-estacao-17d88dd0.mp3"}
       ]
     }
 ]
