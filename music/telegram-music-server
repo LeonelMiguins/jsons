@@ -1,0 +1,9 @@
+[
+    {
+      "id": 1,
+      "title": "Aurora","artist": "Dreamscape","year": 2021,"genre": "Electro",
+      "image": "https://via.placeholder.com/300x300?text=Aurora",
+      "faixas": [{"name": "Aurora - Intro","url": "audios/aurora-intro.mp3"},{"name": "Aurora - Main Theme","url": "audios/aurora-theme.mp3"}
+      ]
+    }
+]
