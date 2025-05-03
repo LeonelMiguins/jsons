@@ -1,15 +1,18 @@
 [
-      {
+    {
       "id": 2,
-      "title": "Mulheres do rock","artist": "Vários Artistas","year": 2018,"genre": "Rock","author": "Leonel Miguins",
+      "title": "Mulheres do rock","artist": "Vários Artistas","year": 2018,"genre": "Rock","author": "Leonel Miguins","download":"n/a",
       "image": "https://akamai.sscdn.co/tb/650x650/palcomp3-playlists/0c5702ae-13a6-4b89-9711-23762fd30119.jpg",
       "faixas": [{"name": "O Que Você Quer - Rulez / Rataus","url": "https://palcocdn.akamaized.net/d/4/5/3/rulezrataus-o-que-voce-quer-2b9f0199.mp3"},{"name": "Sla - Dramani","url": "https://palcocdn.akamaized.net/b/1/9/8/dramani-sla-6028115b.mp3"},{"name": "Nunca Mais - CINEMA4D","url": "https://palcocdn.akamaized.net/3/9/9/b/cinema4d-nunca-mais-da7634fb.mp3"},
-      {"name": "No É No - Giovanna Moraes","url": "https://palcocdn.akamaized.net/9/f/5/0/gggiovannamoraes-no-e-no-bcdd6853.mp3"}
+      {"name": "No É No - Giovanna Moraes","url": "https://palcocdn.akamaized.net/9/f/5/0/gggiovannamoraes-no-e-no-bcdd6853.mp3"},{"name": "Assistindo Mais Você - SATURNINA","url": "https://palcocdn.akamaized.net/2/b/d/f/saturnina-assistindo-mais-voce-02b034a0.mp3"},
+      {"name": "A Bolha - Alucinados Rock Band","url": "https://palcocdn.akamaized.net/0/c/8/8/alucinados-rock-band-a-bolha-77186d90.mp3"},{"name": "Autoajuda - Luiza Aldser","url": "https://palcocdn.akamaized.net/8/b/2/f/KILLVIOLETS-autoajuda-a3bdb913.mp3"},{"name": "Don'T Look Back - CircleKSK","url": "https://palcocdn.akamaized.net/8/a/d/b/circleksk-dont-look-back-6923a604.mp3"},
+      {"name": "Para Todos os Garotos Que Eu Já Matei - lia suspira","url": "https://palcocdn.akamaized.net/f/0/0/d/liasuspira-para-todos-os-garotos-que-eu-ja-matei-bc78a4f3.mp3"},{"name": "Música Explicativa Da Dr - Luiza Goto","url": "https://palcocdn.akamaized.net/8/f/c/5/luizagoto-musica-explicativa-da-dr-193a5ba9.mp3"}, 
+      {"name": "Amanhã De Ontem - A Drama","url": "https://palcocdn.akamaized.net/1/e/e/5/adrama-amanha-de-ontem-9a9a721c.mp3"},{"name": "Hiato - Lado Brasil","url": "https://palcocdn.akamaized.net/7/9/7/b/Ladobrasil-hiato-96ca0a4e.mp3"}
       ]
     },
     {
       "id": 1,
-      "title": "Aumenta que é rock","artist": "Vários Artistas","year": 2018,"genre": "Rock","author": "Leonel Miguins",
+      "title": "Aumenta que é rock","artist": "Vários Artistas","year": 2018,"genre": "Rock","author": "Leonel Miguins","download":"n/a",
       "image": "https://akamai.sscdn.co/tb/650x650/palcomp3-playlists/7d8123ce-850d-4624-a6c1-14ecadb0b291.jpg",
       "faixas": [{"name": "Tetros - Na Minha Estação","url": "https://palcocdn.akamaized.net/a/7/a/4/tedrosoficial-na-minha-estacao-17d88dd0.mp3"},{"name": "Milho Verde - Tianastácia","url": "https://palcocdn.akamaized.net/6/e/4/d/bandatianastacia-milho-verde.mp3"},
       {"name": "iéLou - Lutar Pro Nosso Amor Vencer","url": "https://palcocdn.akamaized.net/3/7/f/5/ielou-lutar-pro-nosso-amor-vencer-52a0c780.mp3"},{"name": "Tarde Livre - Selvagens à Procura de Lei","url": "https://palcocdn.akamaized.net/8/8/c/5/sapdl-selvagens-a-procura-de-lei-tarde-livre-44100hz-16bits-9968b4f9.mp3"},
