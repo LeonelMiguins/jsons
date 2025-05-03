@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "title": "Onisciente Coletivo","artist": "Ratos de Porão","year": 2004,"genre": "Punk Rock, Crossover","author": "Leonel Miguins",
+    "image": "https://api.telegram.org/file/bot8094607556:AAFsFgoi9M0TtpIXz_x66GZNZYaKbeYn22M/photos/file_31.jpg",
+    "faixas": [
+      {"name": "01 - Terror Declarado","url": "https://api.telegram.org/file/bot8094607556:AAFsFgoi9M0TtpIXz_x66GZNZYaKbeYn22M/music/file_17.mp3"},
+      {"name": "02 - Engrenagem","url": "https://api.telegram.org/file/bot8094607556:AAFsFgoi9M0TtpIXz_x66GZNZYaKbeYn22M/music/file_18.mp3"},
+      {"name": "03 - Playbaloser","url": "https://api.telegram.org/file/bot8094607556:AAFsFgoi9M0TtpIXz_x66GZNZYaKbeYn22M/music/file_19.mp3"},
+      {"name": "04 - Próximo Alvo","url": "https://api.telegram.org/file/bot8094607556:AAFsFgoi9M0TtpIXz_x66GZNZYaKbeYn22M/music/file_20.mp3"},
+      {"name": "05 - O Sistema Me Engoliu","url": "https://api.telegram.org/file/bot8094607556:AAFsFgoi9M0TtpIXz_x66GZNZYaKbeYn22M/music/file_21.mp3"},
+      {"name": "06 - Medo","url": "https://api.telegram.org/file/bot8094607556:AAFsFgoi9M0TtpIXz_x66GZNZYaKbeYn22M/music/file_22.mp3" },
+      {"name": "07 - Fragments Of Conquest","url": "https://api.telegram.org/file/bot8094607556:AAFsFgoi9M0TtpIXz_x66GZNZYaKbeYn22M/music/file_23.mp3"},
+      {"name": "08 - Vai Ficar Preto","url": "https://api.telegram.org/file/bot8094607556:AAFsFgoi9M0TtpIXz_x66GZNZYaKbeYn22M/music/file_24.mp3"},
+      {"name": "09 - Conspiração Subliminar","url": "https://api.telegram.org/file/bot8094607556:AAFsFgoi9M0TtpIXz_x66GZNZYaKbeYn22M/music/file_25.mp3"},
+      {"name": "10 - Rabia Social", "url": "https://api.telegram.org/file/bot8094607556:AAFsFgoi9M0TtpIXz_x66GZNZYaKbeYn22M/music/file_26.mp3"},
+      {"name": "11 - Necrochorume","url": "https://api.telegram.org/file/bot8094607556:AAFsFgoi9M0TtpIXz_x66GZNZYaKbeYn22M/music/file_27.mp3"},
+      {"name": "12 - Problemão", "url": "https://api.telegram.org/file/bot8094607556:AAFsFgoi9M0TtpIXz_x66GZNZYaKbeYn22M/music/file_28.mp3"},
+      {"name": "13 - Cybergenocídio","url": "https://api.telegram.org/file/bot8094607556:AAFsFgoi9M0TtpIXz_x66GZNZYaKbeYn22M/music/file_29.mp3"},
+      {"name": "14 - Onisciente Coletivo","url": "https://api.telegram.org/file/bot8094607556:AAFsFgoi9M0TtpIXz_x66GZNZYaKbeYn22M/music/file_30.mp3"}
+    ]
+  }
+  
+    
+]
