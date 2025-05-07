@@ -1,10 +1,14 @@
-{
-    "Title": "Ritual","Artist": "Shaman","Year": "2002","Type": "Album","Genrer": "Melodic Metal, Power Metal",
-    "playlistId": "PLx123abc456def","Author": "Leonel Miguins","thumb":"https://lh3.googleusercontent.com/4PZveN1paxrMGf8xOc41AdFaiRCt_YXialvrCICPKxfogoQfp05EdpUhzcWo1UKddzdsFbqsXvTvGOs=w544-h544-l90-rj",
+[
+  {
+    "PlaylistId":"1","Title": "Ritual","Artist": "Shaman","Year": "2002","Type": "Album","Genrer": "Melodic Metal, Power Metal",
+    "playlistLinkId": "PLx123abc456def","Author": "Leonel Miguins","thumb":"https://lh3.googleusercontent.com/4PZveN1paxrMGf8xOc41AdFaiRCt_YXialvrCICPKxfogoQfp05EdpUhzcWo1UKddzdsFbqsXvTvGOs=w544-h544-l90-rj",
     "music": [
       {"Id": "KbXuNXcyJ3M","title": "Ancient Winds","Artist": "Shaman"},{"Id": "6Ge21BOyips","title": "Here I Am","Artist": "Shaman"},
-      {"Id": "KDBZitGrhII&list","title": "Distant Thunder","Artist": "Shaman"},{"Id": "tK4AT5uI_gg&si","title": "Time Will Come","Artist": "Shaman"}
+      {"Id": "KDBZitGrhII&list","title": "Distant Thunder","Artist": "Shaman"},{"Id": "3C7iDyzBTbI","title": "For Tomorrow","Artist": "Shaman"},
+      {"Id": "tK4AT5uI_gg&si","title": "Time Will Come","Artist": "Shaman"},{"Id": "KXtmmPF3t6k","title": "Over Your Head","Artist": "Shaman"},
+      {"Id": "8rE2f0UR9Cs","title": "Fairy Tale","Artist": "Shaman"},{"Id": "1Hrh7ok684E","title": "Blind Spell","Artist": "Shaman"},
+      {"Id": "L1EznLy-5ak","title": "Ritual","Artist": "Shaman"},{"Id": "DaGWCkNq2dM","title": "Pride","Artist": "Shaman"}
 
     ]
   }
-  
+] 
