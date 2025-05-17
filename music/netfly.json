@@ -1,0 +1,200 @@
+[
+  {
+    "id": 2,
+    "title": "BTS Essêncial",
+    "artist": "BTS, Coldplay, Charlie Puth",
+    "year": 2025,
+    "genre": "Pop, K-Pop",
+    "author": "Regiane Miguins",
+    "download": "no",
+    "type": "playlist",
+    "image": "https://red-spotify.netlify.app/cd/100%25-BTS/cover.jpg",
+    "tracks": [
+      {"name": "Coldplay - My Universe","url": "https://red-spotify.netlify.app/cd/100%25-BTS/01---Coldplay---My-Universe.mp3","artist": "BTS, Coldplay"},
+      {"name": "BTS - Dynamite","url": "https://red-spotify.netlify.app/cd/100%25-BTS/02---BTS---Dynamite.mp3","artist": "BTS"},
+      {"name": "BTS - Butter","url": "https://red-spotify.netlify.app/cd/100%25-BTS/03---BTS---Butter.mp3","artist": "BTS"},
+      {
+        "name": "BTS - House of Cards (Full Length Edition)",
+        "url": "https://red-spotify.netlify.app/cd/100%25-BTS/04---BTS---House-of-Cards-(Full-Length-Edition).mp3","artist": "BTS"
+      },
+      {
+        "name": "BTS - FAKE LOVE",
+        "url": "https://red-spotify.netlify.app/cd/100%25-BTS/05---BTS---FAKE-LOVE.mp3","artist": "BTS"
+      },
+      {
+        "name": "BTS - Boy With Luv (Feat. Halsey)",
+        "url": "https://red-spotify.netlify.app/cd/100%25-BTS/06---BTS---Boy-With-Luv-(Feat.-Halsey).mp3","artist": "BTS"
+      },
+      {
+        "name": "BTS - ON",
+        "url": "https://red-spotify.netlify.app/cd/100%25-BTS/07---BTS---ON.mp3","artist": "BTS"
+      },
+      {
+        "name": "Charlie Puth - Left and Right (Feat. Jung Kook of BTS)",
+        "url": "https://red-spotify.netlify.app/cd/100%25-BTS/08---Charlie-Puth---Left-and-Right-(Feat.-Jung-Kook-of-BTS).mp3","artist": "BTS"
+      },
+      {
+        "name": "Jungkook - Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack]",
+        "url": "https://red-spotify.netlify.app/cd/100%25-BTS/09---Jungkook---Dreamers-%5BMusic-from-the-FIFA-World-Cup-Qatar-2022-Official-Soundtrack%5D.mp3","artist": "BTS"
+      },
+      {
+        "name": "BTS - Black Swan",
+        "url": "https://red-spotify.netlify.app/cd/100%25-BTS/10---BTS---Black-Swan.mp3","artist": "BTS"
+      },
+      {
+        "name": "BTS - Blood Sweat & Tears",
+        "url": "https://red-spotify.netlify.app/cd/100%25-BTS/11---BTS---Blood-Sweat-%26-Tears.mp3","artist": "BTS"
+      },
+      {
+        "name": "BTS - Save Me",
+        "url": "https://red-spotify.netlify.app/cd/100%25-BTS/12---BTS---Save-Me.mp3","artist": "BTS"
+      },
+      {
+        "name": "BTS - DNA",
+        "url": "https://red-spotify.netlify.app/cd/100%25-BTS/13---BTS---DNA.mp3","artist": "BTS"
+      },
+      {
+        "name": "BTS - Burning Up (FIRE)",
+        "url": "https://red-spotify.netlify.app/cd/100%25-BTS/14---BTS---Burning-Up-(FIRE).mp3","artist": "BTS"
+      },
+      {
+        "name": "BTS - Not Today",
+        "url": "https://red-spotify.netlify.app/cd/100%25-BTS/15---BTS---Not-Today.mp3","artist": "BTS"
+      },
+      {
+        "name": "BTS - Silver Spoon",
+        "url": "https://red-spotify.netlify.app/cd/100%25-BTS/16---BTS---Silver-Spoon.mp3","artist": "BTS"
+      },
+      {
+        "name": "BTS - MIC Drop",
+        "url": "https://red-spotify.netlify.app/cd/100%25-BTS/17---BTS---MIC-Drop.mp3","artist": "BTS"
+      },
+      {
+        "name": "BTS - Permission to Dance",
+        "url": "https://red-spotify.netlify.app/cd/100%25-BTS/18---BTS---Permission-to-Dance.mp3","artist": "BTS"
+      },
+      {
+        "name": "BTS - Pied Piper",
+        "url": "https://red-spotify.netlify.app/cd/100%25-BTS/19---BTS---Pied-Piper.mp3","artist": "BTS"
+      },
+      {
+        "name": "BTS - Dope",
+        "url": "https://red-spotify.netlify.app/cd/100%25-BTS/20---BTS---Dope.mp3","artist": "BTS"
+      },
+      {
+        "name": "BTS - The Truth Untold (feat. Steve Aoki)",
+        "url": "https://red-spotify.netlify.app/cd/100%25-BTS/21---BTS---The-Truth-Untold-(feat.-Steve-Aoki).mp3","artist": "BTS"
+      },
+      {
+        "name": "BTS - Life Goes On",
+        "url": "https://red-spotify.netlify.app/cd/100%25-BTS/22---BTS---Life-Goes-On.mp3","artist": "BTS"
+      },
+      {
+        "name": "BTS - Airplane pt.2",
+        "url": "https://red-spotify.netlify.app/cd/100%25-BTS/23---BTS---Airplane-pt.2.mp3","artist": "BTS"
+      },
+      {
+        "name": "BTS - Spring Day",
+        "url": "https://red-spotify.netlify.app/cd/100%25-BTS/24---BTS---Spring-Day.mp3","artist": "BTS"
+      },
+      {
+        "name": "BTS - I Need U",
+        "url": "https://red-spotify.netlify.app/cd/100%25-BTS/25---BTS---I-Need-U.mp3","artist": "BTS"
+      },
+      {
+        "name": "BTS - Mikrokosmos",
+        "url": "https://red-spotify.netlify.app/cd/100%25-BTS/26---BTS---Mikrokosmos.mp3","artist": "BTS"
+      },
+      {
+        "name": "BTS - Go Go",
+        "url": "https://red-spotify.netlify.app/cd/100%25-BTS/27---BTS---Go-Go.mp3","artist": "BTS"
+      },
+      {
+        "name": "BTS - Anpanman",
+        "url": "https://red-spotify.netlify.app/cd/100%25-BTS/28---BTS---Anpanman.mp3","artist": "BTS"
+      },
+      {
+        "name": "BTS - Jump",
+        "url": "https://red-spotify.netlify.app/cd/100%25-BTS/29---BTS---Jump.mp3","artist": "BTS"
+      },
+      {
+        "name": "BTS - Just One Day",
+        "url": "https://red-spotify.netlify.app/cd/100%25-BTS/30---BTS---Just-One-Day.mp3","artist": "BTS"
+      },
+      {
+        "name": "BTS - Make It Right (feat. Lauv)",
+        "url": "https://red-spotify.netlify.app/cd/100%25-BTS/31---BTS---Make-It-Right-(feat.-Lauv).mp3","artist": "BTS"
+      },
+      {
+        "name": "BTS - War of Hormone",
+        "url": "https://red-spotify.netlify.app/cd/100%25-BTS/32---BTS---War-of-Hormone.mp3","artist": "BTS"
+      },
+      {
+        "name": "BTS - HOME",
+        "url": "https://red-spotify.netlify.app/cd/100%25-BTS/33---BTS---HOME.mp3","artist": "BTS"
+      },
+      {
+        "name": "BTS - Danger",
+        "url": "https://red-spotify.netlify.app/cd/100%25-BTS/34---BTS---Danger.mp3","artist": "BTS"
+      },
+      {
+        "name": "BTS - Lie",
+        "url": "https://red-spotify.netlify.app/cd/100%25-BTS/35---BTS---Lie.mp3","artist": "BTS"
+      },
+      {
+        "name": "BTS - Best Of Me",
+        "url": "https://red-spotify.netlify.app/cd/100%25-BTS/36---BTS---Best-Of-Me.mp3","artist": "BTS"
+      },
+      {
+        "name": "BTS - Blue & Grey",
+        "url": "https://red-spotify.netlify.app/cd/100%25-BTS/37---BTS---Blue-%26-Grey.mp3","artist": "BTS"
+      },
+      {
+        "name": "BTS - Film out",
+        "url": "https://red-spotify.netlify.app/cd/100%25-BTS/38---BTS---Film-out.mp3","artist": "BTS"
+      },
+      {
+        "name": "BTS - Outro_ House of Cards",
+        "url": "https://red-spotify.netlify.app/cd/100%25-BTS/39---BTS---Outro_-House-of-Cards.mp3","artist": "BTS"
+      },
+      {
+        "name": "BTS - Telepathy",
+        "url": "https://red-spotify.netlify.app/cd/100%25-BTS/40---BTS---Telepathy.mp3","artist": "BTS"
+      }
+    ]
+  },
+  {
+    "id": 1,"title": "Esperar É Caminhar","artist": "Palavrantiga","year": 2010,"genre": "Rock Alternativo, Rock Cristão","author": "Leonel Miguins","download": "no","type": "album",
+    "image": "https://red-spotify.netlify.app/cd/palavrantiga-esperar-%C3%A9-caminhar/cover.jpg",
+    "tracks": [
+      {"name": "Pensei","url": "https://red-spotify.netlify.app/cd/palavrantiga-esperar-%C3%A9-caminhar/pa%20(1).mp3","artist": "Palavrantiga"},
+      {"name": "Vem Me Socorrer","url": "https://red-spotify.netlify.app/cd/palavrantiga-esperar-%C3%A9-caminhar/pa%20(2).mp3","artist": "Palavrantiga"},
+      {"name": "Hoje Tem Guerra","url": "https://red-spotify.netlify.app/cd/palavrantiga-esperar-%C3%A9-caminhar/pa%20(3).mp3","artist": "Palavrantiga"},
+      {"name": "Imagino","url": "https://red-spotify.netlify.app/cd/palavrantiga-esperar-%C3%A9-caminhar/pa%20(4).mp3","artist": "Palavrantiga"},
+      {"name": "Tudo Que Eu Vi Não É Tudo o Que Eu Preciso Aprender","url": "https://red-spotify.netlify.app/cd/palavrantiga-esperar-%C3%A9-caminhar/pa%20(5).mp3","artist": "Palavrantiga"},
+      {"name": "Esperar É Caminhar","url": "https://red-spotify.netlify.app/cd/palavrantiga-esperar-%C3%A9-caminhar/pa%20(6).mp3","artist": "Palavrantiga"},
+      {"name": "Palavra Antiga","url": "https://red-spotify.netlify.app/cd/palavrantiga-esperar-%C3%A9-caminhar/pa%20(7).mp3","artist": "Palavrantiga"},
+      {"name": "Rookmaaker","url": "https://red-spotify.netlify.app/cd/palavrantiga-esperar-%C3%A9-caminhar/pa%20(8).mp3","artist": "Palavrantiga"},
+      {"name": "Casa","url": "https://red-spotify.netlify.app/cd/palavrantiga-esperar-%C3%A9-caminhar/pa%20(9).mp3","artist": "Palavrantiga"},
+      {"name": "Amor Que Nos Faz Um","url": "https://red-spotify.netlify.app/cd/palavrantiga-esperar-%C3%A9-caminhar/pa%20(10).mp3","artist": "Palavrantiga"},
+      {"name": "Feito de Barro","url": "https://red-spotify.netlify.app/cd/palavrantiga-esperar-%C3%A9-caminhar/pa%20(11).mp3","artist": "Palavrantiga"},
+      {"name": "Olhei Meu Dia","url": "https://red-spotify.netlify.app/cd/palavrantiga-esperar-%C3%A9-caminhar/pa%20(12).mp3","artist": "Palavrantiga"},
+      {"name": "Seguro Vou","url": "https://red-spotify.netlify.app/cd/palavrantiga-esperar-%C3%A9-caminhar/pa%20(13).mp3","artist": "Palavrantiga"}
+
+
+    ]
+  },
+  {
+    "id": 0,"title": "Sons of 1973","artist": "Satellite Lovers","year": 1996,"genre": "Pop, J-Pop","author": "Leonel Miguins","download": "no","type": "album",
+    "image": "https://i.scdn.co/image/ab67616d00001e02df80b39b3b47fb4faccbd0f3",
+    "tracks": [
+      {"name": "Sunnyday, Holiday","url": "https://red-spotify.netlify.app/cd/SATELLITE-LOVERS-SONS-OF-1973/f%20(1).mp3","artist": "Satellite Lovers"},
+      {"name": "空へ (S.L meets HV!)","url": "https://red-spotify.netlify.app/cd/SATELLITE-LOVERS-SONS-OF-1973/f%20(2).mp3","artist": "Satellite Lovers"},
+      {"name": "外はいい天気","url": "https://red-spotify.netlify.app/cd/SATELLITE-LOVERS-SONS-OF-1973/f%20(3).mp3","artist": "Satellite Lovers"},
+      {"name": "Sunshine Love (Lover's Picnic Version)","url": "https://red-spotify.netlify.app/cd/SATELLITE-LOVERS-SONS-OF-1973/f%20(4).mp3","artist": "Satellite Lovers"},
+      {"name": "Best Friend","url": "https://red-spotify.netlify.app/cd/SATELLITE-LOVERS-SONS-OF-1973/f%20(5).mp3","artist": "Satellite Lovers"},
+      {"name": "夏の続き","url": "https://red-spotify.netlify.app/cd/SATELLITE-LOVERS-SONS-OF-1973/f%20(6).mp3","artist": "Satellite Lovers"},
+      {"name": "How Much I Love You, Baby","url": "https://red-spotify.netlify.app/cd/SATELLITE-LOVERS-SONS-OF-1973/f%20(7).mp3","artist": "Satellite Lovers"}
+    ]
+  }
+]

@@ -1,0 +1,537 @@
+
+[
+  {
+    "id": 6, "title": "Cassiane Essêncial","artist": "Cassiane","year": 2025,"genre": "Gospel, Cristão","author": "Regiane Miguins","download": "no","type": "playlist",
+    "image": "https://akamai.sscdn.co/tb/652x652/palcomp3-discografia/e/c/2/b/7b488195e05e4fa08138997eb9dfbbc4.jpg",
+    "tracks": [
+      {"name": "Minha Bênção","url": "https://palcocdn.akamaized.net/e/a/1/b/makleygabriel-minha-bencao-25b51215.mp3","artist": "Cassiane"},
+      {"name": "Basta Uma Palavra","url": "https://palcocdn.akamaized.net/8/d/4/3/makleygabriel-basta-uma-palavra-cassiane-40ec0d1e.mp3","artist": "Cassiane"},
+      {"name": "Deus Tem Poder","url": "https://palcocdn.akamaized.net/1/3/3/7/makleygabriel-deus-tem-poder-0b3a4df9.mp3","artist": "Cassiane"},
+      {"name": "Como Deus Não Há","url": "https://palcocdn.akamaized.net/f/8/6/0/makleygabriel-como-deus-nao-ha-9736c672.mp3","artist": "Cassiane"},
+      {"name": "Com Muito Louvor","url": "https://palcocdn.akamaized.net/5/1/f/f/makleygabriel-com-muito-louvor-e89b1391.mp3","artist": "Cassiane"},
+      {"name": "Com Cristo É Vencer","url": "https://palcocdn.akamaized.net/b/b/1/6/makleygabriel-com-cristo-e-vencer-952b8b12.mp3","artist": "Cassiane"},
+      {"name": "Cachoeira De Poder", "url": "https://palcocdn.akamaized.net/0/f/d/1/makleygabriel-cachoeira-de-poder-a39cc62d.mp3","artist": "Cassiane"},
+      {"name": "Tudo Novo","url": "https://palcocdn.akamaized.net/1/0/0/0/makleygabriel-tudo-novo-3776cd3b.mp3","artist": "Cassiane"},
+      {"name": "O Chamado","url": "https://palcocdn.akamaized.net/0/5/d/f/makleygabriel-o-chamado-cassiane-57fc223c.mp3","artist": "Cassiane"},
+      {"name": "Santo Santo","url": "https://palcocdn.akamaized.net/b/c/4/7/makleygabriel-santo-santo-8de4b30e.mp3", "artist": "Cassiane"},
+      {"name": "Forte Campeão","url": "https://palcocdn.akamaized.net/1/f/0/8/makleygabriel-forte-campeao-4949c97e.mp3", "artist": "Cassiane"},
+      {"name": "Fogo Santo","url": "https://palcocdn.akamaized.net/5/a/2/8/makleygabriel-fogo-santo-cassiane-01952ac8.mp3","artist": "Cassiane"},
+      {"name": "Oferta Agradável A Ti","url": "https://palcocdn.akamaized.net/b/0/d/c/makleygabriel-oferta-agradavel-a-ti-3984acda.mp3","artist": "Cassiane"},
+      {"name": "Festa No Céu","url": "https://palcocdn.akamaized.net/d/9/2/0/makleygabriel-festa-no-ceu-d1257b3e.mp3","artist": "Cassiane"}
+    ]
+  },
+  {
+    "id": 5,"title": "Relaxando a mente com blues","artist": "Natália Ribeiro, Velhos Abutres, Clínica Tobias Blues, Norba Zamboni e +15","year": 2025,"genre": "Blues, Jazz, Altas Doses, ","author": "Leonel Miguins","download": "no","type": "playlist",
+    "image": "https://akamai.sscdn.co/tb/650x650/palcomp3-playlists/7733f4e9-7add-4d9e-ab82-1b533c3c0d9a.jpg",
+    "tracks": [
+      {"name": "It's Obvious","url": "https://palcocdn.akamaized.net/b/9/8/b/nataliaribeiro-faixa-3-a8f6df4d.mp3", "artist": "Natália Ribeiro"},
+      {"name": "Mississippi Blues (feat. Matheus Pimenta)","url": "https://palcocdn.akamaized.net/f/d/e/d/abouttheblues-mississippi-blues-feat-matheus-pimenta-88fd05c2.mp3","artist": "About The Blues"},
+      {
+        "name": "Blues da Aurora",
+        "url": "https://palcocdn.akamaized.net/4/6/7/8/AlexKruger-blues-da-aurora-c4274daf.mp3",
+        "artist": "Alex Krüger"
+      },
+      {
+        "name": "Dust My Broom",
+        "url": "https://palcocdn.akamaized.net/1/7/0/1/BluesPack-dust-my-broom-6cede730.mp3",
+        "artist": "BluesPack"
+      },
+      {
+        "name": "Estrela da Manhã",
+        "url": "https://palcocdn.akamaized.net/4/3/9/f/aldebram-aldebram.mp3",
+        "artist": "Allan Aldebram"
+      },
+      {
+        "name": "Blues for Denise",
+        "url": "https://palcocdn.akamaized.net/5/a/a/e/zamboni-blues-for-denise.mp3",
+        "artist": "Norba Zamboni"
+      },
+      {
+        "name": "Um Ultimo Blues",
+        "url": "https://palcocdn.akamaized.net/7/b/4/5/velhosabutresoficial-um-ultimo-blues-086e6fd8.mp3",
+        "artist": "Velhos Abutres"
+      },
+      {
+        "name": "Sham is Passing Away",
+        "url": "https://palcocdn.akamaized.net/8/9/f/a/ctblues-sham-is-passing-away-a99946d5.mp3",
+        "artist": "Clínica Tobias Blues"
+      },
+      {
+        "name": "Minha Voz",
+        "url": "https://palcocdn.akamaized.net/4/c/4/7/fabiovalverde-minha-voz-af36e68d.mp3",
+        "artist": "Fábio Valverde Blues"
+      },
+      {
+        "name": "Heart and soul",
+        "url": "https://palcocdn.akamaized.net/0/c/3/5/blackcoffee-heart-and-soul-6c05d5.mp3",
+        "artist": "Black Coffee Band"
+      },
+      {
+        "name": "Entre Janelas",
+        "url": "https://palcocdn.akamaized.net/5/9/e/8/bluesdacasatorta-entre-janelas-2c4f9135.mp3",
+        "artist": "Blues da Casa Torta"
+      },
+      {
+        "name": "Seis Da Manha",
+        "url": "https://palcocdn.akamaized.net/7/f/f/4/ctrl-z-seis-da-manha-4b89fa68.mp3",
+        "artist": "Ctrl+Z"
+      },
+      {
+        "name": "Noite No Bar",
+        "url": "https://palcocdn.akamaized.net/8/0/d/f/altasdoses-noite-no-bar-2579e9b8.mp3",
+        "artist": "Altas Doses"
+      },
+      {
+        "name": "O Andarilho (Festival Edit)",
+        "url": "https://palcocdn.akamaized.net/9/7/f/a/joemalfsclan-o-andarilho-festival-edit-efed845a.mp3",
+        "artist": "Joe Malfs Clan"
+      },
+      {
+        "name": "infinito",
+        "url": "https://palcocdn.akamaized.net/6/5/5/d/marciomaresia-infinito.mp3",
+        "artist": "Márcio Maresia"
+      },
+      {
+        "name": "I Love This Blues",
+        "url": "https://palcocdn.akamaized.net/8/9/0/c/brblues-i-love-this-blues.mp3",
+        "artist": "Br Blues"
+      },
+      {
+        "name": "Indiferença",
+        "url": "https://palcocdn.akamaized.net/9/4/0/b/davipierreoficial-indiferenca-5dcb04cb.mp3",
+        "artist": "Davi"
+      },
+      {
+        "name": "Olhos negros",
+        "url": "https://palcocdn.akamaized.net/2/3/5/0/valtomato-olhos-negros-cebf05.mp3",
+        "artist": "Val Tomato"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Bêbados Habilidosos Essêncial","artist": "Bêbados Habilidosos","year": 2025,"genre": "Blues","author": "Leonel Miguins","download": "no","type": "playlist",
+    "image": "https://i.scdn.co/image/ab676161000051745bdc55652a2180c0eb79416a",
+    "tracks": [
+      {"name": "Whisky e Blues","url": "https://palcocdn.akamaized.net/c/8/3/c/bebadoshabilidosos-whisky-blues.mp3","artist": "Bêbados Habilidosos"},
+      {"name": "Mutantes", "url": "https://palcocdn.akamaized.net/d/c/c/b/bebadoshabilidosos-mutantes.mp3","artist": "Bêbados Habilidosos"},
+      {"name": "Amigos de Copo","url": "https://palcocdn.akamaized.net/9/0/b/2/bebadoshabilidosos-amigos-de-copo.mp3","artist": "Bêbados Habilidosos"},
+      {"name": "Vadia","url": "https://palcocdn.akamaized.net/c/f/f/0/bebadoshabilidosos-vadia.mp3","artist": "Bêbados Habilidosos"},
+      {"name": "Perdedor","url": "https://palcocdn.akamaized.net/2/6/c/6/bebadoshabilidosos-perdedor.mp3","artist": "Bêbados Habilidosos"},
+      {"name": "Rio de Whisky","url": "https://palcocdn.akamaized.net/8/9/7/4/bebadoshabilidosos-rio-de-whisky-renato-paulao-dos-velhas.mp3","artist": "Bêbados Habilidosos"},
+      {"name": "Último Blues","url": "https://palcocdn.akamaized.net/2/d/5/8/bebadoshabilidosos-ultimo-blues.mp3","artist": "Bêbados Habilidosos"},
+      {"name": "Ruas Cruas","url": "https://palcocdn.akamaized.net/1/f/e/1/bebadoshabilidosos-ruas-cruas.mp3","artist": "Bêbados Habilidosos"},
+      {"name": "Vampiro","url": "https://palcocdn.akamaized.net/7/a/b/d/bebadoshabilidosos-vampiro.mp3","artist": "Bêbados Habilidosos"},
+      {"name": "Blues da Solidão","url": "https://palcocdn.akamaized.net/b/f/6/e/bebadoshabilidosos-blues-da-solidao.mp3","artist": "Bêbados Habilidosos"}
+    ]
+  },
+  {
+    "id": 3,"title": "Gênio Da Latinha","artist": "Pablo","year": 2020,"genre": "Arrocha","author": "Leonel Miguins","download": "no","type": "album",
+    "image": "https://akamai.sscdn.co/tb/652x652/palcomp3-discografia/5/7/e/6/b12d9012989a42c1a8a7ccc43d816b77.jpg",
+    "tracks": [
+      {"name": "Gênio Da Latinha","url": "https://palcocdn.akamaized.net/8/a/0/2/pablocantoroficial-genio-da-latinha-65243633.mp3","artist": "Pablo"},
+      {"name": "Voce Maltrata","url": "https://palcocdn.akamaized.net/b/e/2/0/pablocantoroficial-voce-maltrata-7bcbbb8b.mp3","artist": "Pablo"},
+      {"name": "Nem Doeu","url": "https://palcocdn.akamaized.net/4/d/f/4/pablocantoroficial-nem-doeu-01ab7769.mp3","artist": "Pablo"},
+      {"name": "So Tem Eu","url": "https://palcocdn.akamaized.net/0/b/4/0/pablocantoroficial-so-tem-eu-b1a6a709.mp3","artist": "Pablo"},
+      {"name": "Como E Que Cancela","url": "https://palcocdn.akamaized.net/9/b/f/0/pablocantoroficial-como-e-que-cancela-a447a5fb.mp3","artist": "Pablo"},
+      {"name": "Pen Drive de Sofrência","url": "https://palcocdn.akamaized.net/1/9/f/6/pablocantoroficial-pen-drive-de-sofrencia-f290b560.mp3","artist": "Pablo"},
+      {"name": "Despedida de Casal","url": "https://palcocdn.akamaized.net/1/9/a/e/pablocantoroficial-despedida-de-casal-93d5964b.mp3","artist": "Pablo"},
+      {"name": "Viva Voz","url": "https://palcocdn.akamaized.net/8/0/e/b/pablocantoroficial-viva-voz-0ab2fa34.mp3","artist": "Pablo"},
+      {"name": "Bordel Lilas","url": "https://palcocdn.akamaized.net/e/2/9/0/pablocantoroficial-bordel-lilas-d6a1c281.mp3","artist": "Pablo"},
+      {"name": "Nao Fale Dela","url": "https://palcocdn.akamaized.net/5/b/4/e/pablocantoroficial-nao-fale-dela-ad9373cf.mp3","artist": "Pablo"},
+      {"name": "Voce Sabe","url": "https://palcocdn.akamaized.net/2/8/f/b/pablocantoroficial-voce-sabe-19ec0b8e.mp3","artist": "Pablo"},
+      {"name": "Prudente","url": "https://palcocdn.akamaized.net/6/d/5/7/pablocantoroficial-prudente-1065a1c4.mp3","artist": "Pablo"},
+      {"name": "Mega Sena","url": "https://palcocdn.akamaized.net/f/3/e/d/pablocantoroficial-mega-sena-ad000b7e.mp3","artist": "Pablo"},
+      {"name": "Pode Fechar A Porta","url": "https://palcocdn.akamaized.net/4/0/9/8/pablocantoroficial-pode-fechar-a-porta-a046cd81.mp3","artist": "Pablo"},
+      {"name": "Ligacao A Cobrar","url": "https://palcocdn.akamaized.net/1/8/0/a/pablocantoroficial-ligacao-a-cobrar-ad886f86.mp3","artist": "Pablo"},
+      {"name": "Transbordo","url": "https://palcocdn.akamaized.net/c/d/4/4/pablocantoroficial-transbordo-4de38eb8.mp3","artist": "Pablo"}
+    ]
+  },
+  {
+    "id": 2,"title": "Gospel acústico","artist": "Aldo Assis, Priscila Sotero, Alexandre Roque, Milena Leão e 18+","year": 2025,"genre": "Acústico, Gospel, Cristão","author": "Leonel Miguins","download": "no","type": "playlist",
+    "image": "https://i.pinimg.com/736x/02/cb/c4/02cbc4827dce7bc0b709a5256a7a9249.jpg",
+    "tracks": [
+      {"name": "Experiências","url": "https://palcocdn.akamaized.net/e/b/5/2/Aldo-Assis-aldo-assis-experiencias-6018faf1.mp3","artist": "Aldo Assis"},
+      {"name": "Você Pode Confiar 2","url": "https://palcocdn.akamaized.net/4/4/6/1/edypo-voce-pode-confiar-2-56a28382.mp3","artist": "Edypo Araújo"},
+      {"name": "O Céu Te Ouviu","url": "https://palcocdn.akamaized.net/2/9/a/b/priscilasotero-o-ceu-te-ouviu-8a04f4c4.mp3","artist": "Priscila Sotero"},
+      {"name": "A Cruz Me Pertencia","url": "https://palcocdn.akamaized.net/0/a/1/5/jonassouzaofficial-a-cruz-me-pertencia-804927fd.mp3","artist": "Jonas De Souza"},
+      {"name": "Minha Poesia","url": "https://palcocdn.akamaized.net/0/9/7/6/Suzi_martinez-minha-poesia-0a9dc622.mp3","artist": "Suzi Martinez"},
+      {"name": "Aguenta","url": "https://palcocdn.akamaized.net/2/e/2/6/eltonadriano-aguenta-2dcf388a.mp3","artist": "Elton Adriano"},
+      {
+        "name": "Boa Noite",
+        "url": "https://palcocdn.akamaized.net/5/3/3/2/roquealexandre-boa-noite-b40bd8b6.mp3",
+        "artist": "Alexandre Roque"
+      },
+      {
+        "name": "O Que Dizer",
+        "url": "https://palcocdn.akamaized.net/a/f/f/2/vavarodrigues-o-que-dizer-67795998.mp3",
+        "artist": "Vavá Rodrigues"
+      },
+      {
+        "name": "Sossega",
+        "url": "https://palcocdn.akamaized.net/0/1/5/6/edmaraferreira-sossega-dc86658a.mp3",
+        "artist": "Edmara ferreira"
+      },
+      {
+        "name": "Nada Mais Que o Teu Amor",
+        "url": "https://palcocdn.akamaized.net/b/b/a/a/iginspiracao-nada-mais-que-o-teu-amor-ae069f5e.mp3",
+        "artist": "Igor Inspiração"
+      },
+      {
+        "name": "Pedras e Sementes",
+        "url": "https://palcocdn.akamaized.net/5/5/d/6/ministerioorigens-luciano-e-robson-projeto-ok-5ba4f45d.mp3",
+        "artist": "Ministério Origens"
+      },
+      {
+        "name": "Fala Comigo",
+        "url": "https://palcocdn.akamaized.net/3/1/3/9/leandro_gomes-fala-comigo-5b419bcc.mp3",
+        "artist": "Leandro Gomes"
+      },
+      {
+        "name": "Um Canto Que Vem De Lá",
+        "url": "https://palcocdn.akamaized.net/4/7/4/4/sullivanmattos-um-canto-que-vem-de-la-a8fc3f9a.mp3",
+        "artist": "Sullivan Mattos"
+      },
+      {
+        "name": "Fala Comigo Deus   Feat. Marcos Antônio ( O Negrão Abençoado)",
+        "url": "https://palcocdn.akamaized.net/d/0/c/2/maurojordao-fala-comigo-deus-feat-marcos-antonio-o-negrao-abencoado-4c9f0920.mp3",
+        "artist": "MAURO  JORDÃO"
+      },
+      {
+        "name": "Doce Visão",
+        "url": "https://palcocdn.akamaized.net/e/f/5/5/mateusn_carvalho-doce-visao-7c099ac3.mp3",
+        "artist": "Mateus N. Carvalho"
+      },
+      {
+        "name": "Homenagem Ao Meu Pai",
+        "url": "https://palcocdn.akamaized.net/c/9/1/d/paulogoncalvesoficial-homenagem-ao-meu-pai-9a6839e7.mp3",
+        "artist": "Paulo Gonçalves"
+      },
+      {
+        "name": "Deus De Paz",
+        "url": "https://palcocdn.akamaized.net/1/6/0/a/diegonovaisguitar-deus-de-paz-5f292279.mp3",
+        "artist": "Diego Novais"
+      },
+      {
+        "name": "Depois Da Tempestade - Acústico",
+        "url": "https://palcocdn.akamaized.net/3/7/3/3/dinaqueile-barros-da-silva-oliveira-depois-da-tempestade-acustico-14785a96.mp3",
+        "artist": "DINAQUEILE BARROS"
+      },
+      {
+        "name": "Sou Casa",
+        "url": "https://palcocdn.akamaized.net/b/c/9/5/milenaleao-sou-casa-092e6c8a.mp3",
+        "artist": "Milena Leão"
+      },
+      {
+        "name": "Através Da Fé",
+        "url": "https://palcocdn.akamaized.net/0/9/c/a/jonasejosimar-atraves-da-fe-90e47d08.mp3",
+        "artist": "Jonas & Josimar"
+      },
+      {
+        "name": "Sozinho Na Presença",
+        "url": "https://palcocdn.akamaized.net/3/6/a/6/EricaOliveira-sozinho-na-presenca-1122bac2.mp3",
+        "artist": "Erica Oliveira"
+      },
+      {
+        "name": "Salmos 62",
+        "url": "https://palcocdn.akamaized.net/0/8/7/6/dani-rocha-salmos-62-daniel-rocha-e32a2a9c.mp3",
+        "artist": "Dani Rocha"
+      },
+      {
+        "name": "Continua",
+        "url": "https://palcocdn.akamaized.net/0/f/9/0/felipocarvalhooficial-continua-227fd651.mp3",
+        "artist": "Felipo Carvalho Oficial"
+      },
+      {
+        "name": "Mestre",
+        "url": "https://palcocdn.akamaized.net/5/e/4/9/manusampayo-mestre-23348555.mp3",
+        "artist": "Manu Sampayo"
+      },
+      {
+        "name": "Renova-Me",
+        "url": "https://palcocdn.akamaized.net/9/2/f/7/louvoraliancacuiaba-renova-me-6cd06ac8.mp3",
+        "artist": "Louvor Aliança"
+      },
+      {
+        "name": "A Ele A Honra",
+        "url": "https://palcocdn.akamaized.net/0/1/7/9/StephannySoffia-a-ele-a-honra-fe1605b8.mp3",
+        "artist": "Stephanny Soffia"
+      },
+      {
+        "name": "Sabe Senhor (Te Amo)",
+        "url": "https://palcocdn.akamaized.net/8/c/8/8/fabianolagooficial-lancamento-sabe-senhor-te-amo-pr-fabiano-lago-a93219a7.mp3",
+        "artist": "Fabiano Lago"
+      },
+      {
+        "name": "Eu Estou Contigo",
+        "url": "https://palcocdn.akamaized.net/e/a/a/2/Dominiqueferraz-eu-estou-contigo-0b2cb654.mp3",
+        "artist": "Dominique ferraz"
+      }
+    ]
+  },
+  {
+  "id": 1,
+  "title": "Rock sobre amor",
+  "artist": "Lucci Ribeiro, Destino Paralelo, Gabi Shima, Tedros e +20",
+  "year": 2025,
+  "genre": "Rock, Pop Rock",
+  "author": "Leonel Miguins",
+  "download": "no",
+  "type": "playlist",
+  "image": "https://akamai.sscdn.co/tb/650x650/palcomp3-playlists/0a9d6364-70b6-40b7-9357-2b0f87c3b2d7.jpg",
+  "tracks": [
+    {"name": "Por Todo O Universo","url": "https://palcocdn.akamaized.net/b/4/8/7/selvagensaprocuradelei-por-todo-o-universo-27c5ab3f.mp3","artist": "Selvagens à Procura de Lei"},
+    {"name": "Nem Sempre","url": "https://palcocdn.akamaized.net/6/e/0/c/evd-nem-sempre-947c0906.mp3","artist": "Enquanto Você Dormia"},
+    {"name": "Ajustar","url": "https://palcocdn.akamaized.net/e/1/5/f/Lucatrezza-ajustar-2c6cef8a.mp3","artist": "Luca Trezza"},
+    {"name": "Mina","url": "https://palcocdn.akamaized.net/c/b/f/e/SinestesiaSonora-2-mina-4c6aa1cb.mp3", "artist": "Sinestesia Sonora"},
+    {"name": "Olhos Nublados (Bxvy22000002)","url": "https://palcocdn.akamaized.net/5/6/a/f/bandapaparoots-papa-roots-ep-essencias-olhos-nublados-bxvy22000002-c62b96c4.mp3","artist": "Papa Roots"},
+    {"name": "Um Minuto","url": "https://palcocdn.akamaized.net/f/7/b/6/gustavosequete-um-minuto-42069622.mp3", "artist": "Gustavo Sequete"},
+    {"name": "Madre pérola","url": "https://palcocdn.akamaized.net/9/8/a/0/ouddoficial-madre-perola-9e518235.mp3","artist": "O último dos dons"},
+    {"name": "Lembranças","url": "https://palcocdn.akamaized.net/1/7/4/4/refase-lembrancas-941d765d.mp3","artist": "Refase"},
+    {"name": "Beija Meu Pescoço","url": "https://palcocdn.akamaized.net/2/6/d/d/aolivia-beija-meu-pescoco-55421208.mp3","artist": "A Olívia"},
+    {"name": "Para Entender","url": "https://palcocdn.akamaized.net/3/6/f/9/lucciribeiro-lucci-ribeiro-para-entender-92777de1.mp3","artist": "Lucci Ribeiro"},
+    {"name": "Nada Mais", "url": "https://palcocdn.akamaized.net/e/e/8/3/obscuranuvem-nada-mais-c8dfc80e.mp3","artist": "Obscura Nuvem"},
+    {"name": "Alguém","url": "https://palcocdn.akamaized.net/5/6/2/d/augustolesant-alguem-96e76bf2.mp3","artist": "AUGUSTO LE SANT"},
+    {"name": "O Amargo Que Um Dia Eu Te Dei","url": "https://palcocdn.akamaized.net/0/2/e/4/destinoparalelo-o-amargo-que-um-dia-eu-te-dei-0323ecaf.mp3","artist": "Destino Paralelo"},
+    {"name": "Seu Olhar","url": "https://palcocdn.akamaized.net/7/f/5/2/thexomanos-the-xomanos-seu-olhar-master-cd8c5bf3.mp3","artist": "The Xomanos"},
+    {"name": "My Heart Is Blue","url": "https://palcocdn.akamaized.net/3/5/3/1/lennylennon-my-heart-is-blue-63714c2c.mp3","artist": "Lenny Maidana"},
+    {"name": "Estrelas Coloridas","url": "https://palcocdn.akamaized.net/0/b/e/c/tomleite-estrelas-coloridas-3e430dd0.mp3","artist": "Tom Leite"},
+    {"name": "Antes Do Fim","url": "https://palcocdn.akamaized.net/6/f/6/7/tedrosoficial-antes-do-fim-0aa688c3.mp3","artist": "Tedros"},
+    {"name": "Não Vou Sorrir","url": "https://palcocdn.akamaized.net/6/3/b/5/titocarlostrio-nao-vou-sorrir-b152d361.mp3","artist": "Tito Carlos Trio"},
+    {"name": "O Último Ato Do Coração","url": "https://palcocdn.akamaized.net/e/c/0/f/zefilho38-o-ultimo-ato-do-coracao-7a0bf0ab.mp3","artist": "Zé Filho"},
+    {"name": "Cabelos Ao Vento","url": "https://palcocdn.akamaized.net/b/8/a/e/marcoscabellera-cabelos-ao-vento-3c554392.mp3","artist": "Marcos Cabellera"},
+    {"name": "Uma Chance","url": "https://palcocdn.akamaized.net/f/0/3/4/gutierredelapena-05-faixa-5-4ad302e7.mp3","artist": "GUTIERRE DE LA PEÑA"},
+    {"name": "Às Vezes","url": "https://palcocdn.akamaized.net/5/9/4/3/thexomanos-5-as-vezes-5169af7a.mp3","artist": "The Xomanos"},
+    {"name": "Não Vá","url": "https://palcocdn.akamaized.net/6/7/e/1/sigmaband-nao-va-dfce243a.mp3","artist": "SIGMA"},
+    {"name": "Quando O Sol Brilhar","url": "https://palcocdn.akamaized.net/f/1/c/5/leovienna-quando-o-sol-brilhar-master-ajustada2-26fba35f.mp3","artist": "Léo Vienna"},
+    {
+      "name": "Love, Scarlet",
+      "url": "https://palcocdn.akamaized.net/b/3/1/a/lakesidebymidnight-love-scarlet-3d9c97cd.mp3",
+      "artist": "Lakeside by Midnight"
+    },
+    {
+      "name": "É Você",
+      "url": "https://palcocdn.akamaized.net/5/a/f/7/Naipes7777-e-voce-3c7df3c2.mp3",
+      "artist": "Naipes"
+    },
+    {
+      "name": "Aquela Rua",
+      "url": "https://palcocdn.akamaized.net/b/4/9/1/gabishima-aquela-rua-441fcc9c.mp3",
+      "artist": "Gabi Shima"
+    },
+    {
+      "name": "With You",
+      "url": "https://palcocdn.akamaized.net/3/b/2/4/ibmdmusic-with-you-f5727a15.mp3",
+      "artist": "I Buried My Dreams"
+    },
+    {
+      "name": "Tão Down",
+      "url": "https://palcocdn.akamaized.net/7/b/2/a/gustavosequete-tao-down-f2ba98d7.mp3",
+      "artist": "Gustavo Sequete"
+    }
+  ]
+},
+{
+  "id": 0,"title": "Aumenta que é rock","artist": "Tianastácia, O Grilo, Dramani, SIGMA, Lazies e 20+","year": 2025,"genre": "Rock, Pop Rock","author": "Leonel Miguins","download": "no","type": "playlist",
+  "image": "https://i.pinimg.com/736x/21/ad/23/21ad2310c469614dc8fe7ba3de073996.jpg",
+  "tracks": [
+    { "name": "Na Minha Estação","url": "https://palcocdn.akamaized.net/a/7/a/4/tedrosoficial-na-minha-estacao-17d88dd0.mp3","artist": "Tedros"},
+    { "name": "Lutar Pro Nosso Amor Vencer","url": "https://palcocdn.akamaized.net/3/7/f/5/ielou-lutar-pro-nosso-amor-vencer-52a0c780.mp3", "artist": "iéLou"},
+    {
+      "name": "Milho Verde",
+      "url": "https://palcocdn.akamaized.net/6/e/4/d/bandatianastacia-milho-verde.mp3",
+      "artist": "Tianastácia"
+    },
+    {
+      "name": "Tarde Livre",
+      "url": "https://palcocdn.akamaized.net/8/8/c/5/sapdl-selvagens-a-procura-de-lei-tarde-livre-44100hz-16bits-9968b4f9.mp3",
+      "artist": "Selvagens à Procura de Lei"
+    },
+    {
+      "name": "O Maior De Todos Os Tempos",
+      "url": "https://palcocdn.akamaized.net/d/0/b/f/zionz-o-maior-de-todos-os-tempos-50c36ed1.mp3",
+      "artist": "Zion'z"
+    },
+    {
+      "name": "Arquipélago",
+      "url": "https://palcocdn.akamaized.net/7/a/5/8/anonimosanonimos-arquipelago-e8c39a40.mp3",
+      "artist": "Anônimos Anônimos"
+    },
+    {
+      "name": "Não custa nada",
+      "url": "https://palcocdn.akamaized.net/b/c/5/f/superaudio-nao-custa-nada.mp3",
+      "artist": "SUPERAUDIO"
+    },
+    {
+      "name": "Serenata Existencialista",
+      "url": "https://palcocdn.akamaized.net/8/8/f/d/ogrilo-serenata-existencialista-1b77f36e.mp3",
+      "artist": "O Grilo"
+    },
+    {
+      "name": "Distraído - Gilson'S Band",
+      "url": "https://palcocdn.akamaized.net/2/c/5/7/gilsons_band-distraido-gilsons-band-462b24f6.mp3",
+      "artist": "Gilson's Band"
+    },
+    {
+      "name": "Quarto Da Desilusão (Feat. Tuírow)",
+      "url": "https://palcocdn.akamaized.net/0/7/1/0/oquarentenerso-quarto-da-desilusao-feat-tuirow-c5d66728.mp3",
+      "artist": "O Quarentener Só"
+    },
+    {
+      "name": "Sla",
+      "url": "https://palcocdn.akamaized.net/b/1/9/8/dramani-sla-6028115b.mp3",
+      "artist": "Dramani"
+    },
+    {
+      "name": "No Meio Do Caos (Part. Laboratori)",
+      "url": "https://palcocdn.akamaized.net/9/d/e/8/parqueflorenza-no-meio-do-caos-0d1cdc9d.mp3",
+      "artist": "Parque Florenza"
+    },
+    {
+      "name": "Infinite Circle",
+      "url": "https://palcocdn.akamaized.net/8/c/2/b/blazingdog-infinite-circle-3a7b033e.mp3",
+      "artist": "Blazing Dog"
+    },
+    {
+      "name": "Quando Você Vem?",
+      "url": "https://palcocdn.akamaized.net/2/8/9/1/tedrosoficial-quando-voce-vem-44caa57c.mp3",
+      "artist": "Tedros"
+    },
+    {
+      "name": "Inevitável",
+      "url": "https://palcocdn.akamaized.net/8/d/d/1/banda_base-1-inevitavel-f60b8f88.mp3",
+      "artist": "BASE"
+    },
+    {
+      "name": "Meus 18",
+      "url": "https://palcocdn.akamaized.net/4/9/c/d/sigmaband-meus-18-520981a4.mp3",
+      "artist": "SIGMA"
+    },
+    {
+      "name": "Radio Vox",
+      "url": "https://palcocdn.akamaized.net/d/f/4/7/stonedhare-radio-vox-22093ee9.mp3",
+      "artist": "Stoned Hare"
+    },
+    {
+      "name": "Flowing Down",
+      "url": "https://palcocdn.akamaized.net/e/4/f/d/timezero-01-time-zero-flowing-down-45ef5677.mp3",
+      "artist": "TIME ZERO"
+    },
+    {
+      "name": "Better Days",
+      "url": "https://palcocdn.akamaized.net/9/a/a/3/anarchitects-better-days-80d84098.mp3",
+      "artist": "Anarchitects"
+    },
+    {
+      "name": "Amante",
+      "url": "https://palcocdn.akamaized.net/6/2/3/f/bornesoficial-amante-0bc54a38.mp3",
+      "artist": "Bornes"
+    },
+    {
+      "name": "Você Me Deu Asas",
+      "url": "https://palcocdn.akamaized.net/1/c/6/9/tianastaciaoficial-07-voce-me-deu-asas.mp3",
+      "artist": "Tianastácia"
+    },
+    {
+      "name": "Baby I Tried",
+      "url": "https://palcocdn.akamaized.net/9/0/2/6/roxercat-baby-i-tried-286b9c62.mp3",
+      "artist": "Roxercat"
+    },
+    {
+      "name": "Pra Me Explicar",
+      "url": "https://palcocdn.akamaized.net/5/9/a/4/nogabiru-pra-me-explicar-1f388de4.mp3",
+      "artist": "No Gabiru"
+    },
+    {
+      "name": "Cidade Favela",
+      "url": "https://palcocdn.akamaized.net/4/3/d/7/tianastaciaoficial-cidade-favela-fdcbb4.mp3",
+      "artist": "Tianastácia"
+    },
+    {
+      "name": "Faca Amolada Roots - Sepultura / Milton Nascimento MASHUP",
+      "url": "https://palcocdn.akamaized.net/7/8/a/e/landau-faca-amolada-roots-sepultura-milton-nascimento-mashup-b850aa98.mp3",
+      "artist": "Landau"
+    },
+    {
+      "name": "Mares do sul",
+      "url": "https://palcocdn.akamaized.net/6/6/b/7/jotaquest-mares-do-sul-feat-stuart-zender-5ea81284.mp3",
+      "artist": "Jota Quest"
+    },
+    {
+      "name": "Herói Do Futuro",
+      "url": "https://palcocdn.akamaized.net/0/2/e/e/ogrilo-heroi-do-futuro-12981f53.mp3",
+      "artist": "O Grilo"
+    },
+    {
+      "name": "M.K.T.M.",
+      "url": "https://palcocdn.akamaized.net/5/8/e/4/lakesidebymidnight-mktm-0e9ba3b8.mp3",
+      "artist": "Lakeside by Midnight"
+    },
+    {
+      "name": "Microfones Virtuais",
+      "url": "https://palcocdn.akamaized.net/c/a/4/4/ericknietto-microfones-virtuais-049fb373.mp3",
+      "artist": "Erick Andrello Nietto"
+    },
+    {
+      "name": "Sisifo",
+      "url": "https://palcocdn.akamaized.net/1/7/1/5/anonimosanonimos-sisifo-caf05f2e.mp3",
+      "artist": "Anônimos Anônimos"
+    },
+    {
+      "name": "Guerra",
+      "url": "https://palcocdn.akamaized.net/c/7/f/c/Estio250-guerra-cb60119e.mp3",
+      "artist": "Estio250"
+    },
+    {
+      "name": "Minha Cruz",
+      "url": "https://palcocdn.akamaized.net/1/4/e/e/excene-minha-cruz-master-mp3-2971d878.mp3",
+      "artist": "Excene"
+    },
+    {
+      "name": "Uma Taça de Vinho",
+      "url": "https://palcocdn.akamaized.net/9/2/3/7/lazies-uma-taca-de-vinho-bb142e.mp3",
+      "artist": "Lazies"
+    },
+    {
+      "name": "Plano B (Feat. Felipe Vilardo)",
+      "url": "https://palcocdn.akamaized.net/6/4/9/9/oquarentenerso-plano-b-feat-felipe-vilardo-fe91aea7.mp3",
+      "artist": "O Quarentener Só"
+    },
+    {
+      "name": "Pode Ser",
+      "url": "https://palcocdn.akamaized.net/4/5/8/9/bobsimonoficial-pode-ser-03eb501d.mp3",
+      "artist": "Banda Bob Simon"
+    },
+    {
+      "name": "sozinho(s)",
+      "url": "https://palcocdn.akamaized.net/6/0/b/e/sutilmodelonovo-sozinhos-3910355b.mp3",
+      "artist": "Sutil Modelo Novo"
+    },
+    {
+      "name": "Cacos",
+      "url": "https://palcocdn.akamaized.net/6/1/1/4/culpa-cacos-71a01b56.mp3",
+      "artist": "Culpa"
+    },
+    {
+      "name": "Riviera",
+      "url": "https://palcocdn.akamaized.net/f/f/d/e/nogabiru-riviera-090e3a87.mp3",
+      "artist": "No Gabiru"
+    },
+    {
+      "name": "Difícil De Enxergar (Feat. Melton Sello)",
+      "url": "https://palcocdn.akamaized.net/f/9/e/3/oquarentenerso-dificil-de-enxergar-7f652055.mp3",
+      "artist": "O Quarentener Só"
+    },
+    {
+      "name": "Limitado",
+      "url": "https://palcocdn.akamaized.net/2/0/2/f/tianastaciaoficial-limitado-4364bd.mp3",
+      "artist": "Tianastácia"
+    },
+    {
+      "name": "Jogo Da Vida",
+      "url": "https://palcocdn.akamaized.net/e/a/4/4/excene-jogo-da-vida-a-sorte-foi-lancada-a51a339b.mp3",
+      "artist": "Excene"
+    }
+  ]
+}
+]
