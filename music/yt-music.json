@@ -1,52 +1,85 @@
 [
-
-  {
-    "id": 0,"PlaylistId": "OLAK5uy_nEZ3mp8wbDRYTLeMYCHGF6h13ZAYNV4Hs","Title": "Nothing But The Best (2008 Remastered)","Artist": "Frank Sinatra",
-    "Year": "2008","Type": "Album","Genrer": "Jazz","download": "no","Author": "Leonel Miguins",
-    "thumb": "https://lh3.googleusercontent.com/GCWcP0PYxKzb0-l04KRh2th6zKS6HMPYAWGoc_3cZGO8NwIiIzvplCcXMF1NDNmWo1Ke3MpDonqddxWJ=w544-h544-l90-rj",
-    "music": [
-      {"Id": "yOzEeJZ92X8","title": "Come Fly With Me (2008 Remastered)","Artist": "Frank Sinatra"},
-      {"Id": "mQIZ-Esbg_c","title": "The Best Is Yet To Come (2008 Remastered)","Artist": "Frank Sinatra"},
-      {"Id": "YFham2Xu6nA","title": "The Way You Look Tonight (2008 Remastered)","Artist": "Frank Sinatra"},
-      {"Id": "MfiKk4wxiVM","title": "Luck Be A Lady (2008 Remastered)","Artist": "Frank Sinatra"},
-      {"Id": "pAZJzxHJMOs","title": "Bewitched (2008 Remastered)","Artist": "Frank Sinatra"},
-      {"Id": "EPBDUk47XbM","title": "The Good Life (2008 Remastered)","Artist": "Frank Sinatra"},
-      {"Id": "mD6pbCSeWLs","title": "The Girl From Ipanema (2008 Remastered)","Artist": "Frank Sinatra"},
-      {"Id": "ZEcqHA7dbwM","title": "Fly Me To The Moon (2008 Remastered)","Artist": "Frank Sinatra"},
-      {"Id": "8DopzOCeKJc","title": "Summer Wind (2008 Remastered)","Artist": "Frank Sinatra"},
-      {"Id": "Fd_3EkGr0-4","title": "Strangers In The Night (2008 Remastered)","Artist": "Frank Sinatra"},
-      {"Id": "Sl_wkNQJp5s","title": "Call Me Irresponsible (2008 Remastered)","Artist": "Frank Sinatra"},
-      {"Id": "Y_t2gNCXYbY","title": "Somethin' Stupid (2008 Remastered)","Artist": "Frank Sinatra"},
-      {"Id": "iK_CL7sr018","title": "My Kind Of Town (2008 Remastered)","Artist": "Frank Sinatra"},
-      {"Id": "TeDfgUvyKHk","title": "It Was A Very Good Year (2008 Remastered)","Artist": "Frank Sinatra"},
-      {"Id": "TnlPtaPxXfc","title": "That's Life (2008 Remastered)","Artist": "Frank Sinatra"},
-      {"Id": "ZOihMwRxUdM","title": "Moonlight Serenade (2008 Remastered)","Artist": "Frank Sinatra"},
-      {"Id": "8GrYyuO0TOE","title": "Nothing But The Best (2008 Remastered)","Artist": "Frank Sinatra"},
-      {
-        "Id": "gnN_AmvYDGY",
-        "title": "Drinking Again (2008 Remastered)",
-        "Artist": "Frank Sinatra"
-      },
-      {
-        "Id": "L-5qMan4cj4",
-        "title": "All My Tomorrows (2008 Remastered)",
-        "Artist": "Frank Sinatra"
-      },
-      {
-        "Id": "qQzdAsjWGPg",
-        "title": "My Way (2008 Remastered)",
-        "Artist": "Frank Sinatra"
-      },
-      {
-        "Id": "le1QF3uoQNg",
-        "title": "Theme From New York, New York (2008 Remastered)",
-        "Artist": "Frank Sinatra"
-      },
-      {
-        "Id": "4LnEuDASRWY",
-        "title": "Body And Soul (2008 Remastered)",
-        "Artist": "Frank Sinatra"
-      }
-    ]
-  }
+{
+  "PlaylistId": "PLOOGfnYf_q-AaOB7EPfSLcpAiyphskoML",
+  "Title": "Glória",
+  "Artist": "Glória",
+  "Year": "2009",
+  "Type": "Album",
+  "Genrer": "",
+  "download": "no",
+  "Author": "Leonel Miguins",
+  "thumb": "",
+  "music": [
+    {
+      "Id": "WQlHG41IMoo",
+      "title": "Anemia",
+      "Artist": "Glória"
+    },
+    {
+      "Id": "emXPpb4701g",
+      "title": "Minha Paz",
+      "Artist": "Glória"
+    },
+    {
+      "Id": "keo2X7lq5_4",
+      "title": "Tudo Outra Vez",
+      "Artist": "Glória"
+    },
+    {
+      "Id": "TF38t0muhNU",
+      "title": "Asas Fracas",
+      "Artist": "Glória"
+    },
+    {
+      "Id": "t-5iRj513q4",
+      "title": "Agora É Minha Vez",
+      "Artist": "Glória"
+    },
+    {
+      "Id": "l4sHjpIH0ck",
+      "title": "É Só Você Lembrar",
+      "Artist": "Glória"
+    },
+    {
+      "Id": "T8C4fl3klZo",
+      "title": "Me Tira Daqui",
+      "Artist": "Glória"
+    },
+    {
+      "Id": "WF9cwyr9Sa0",
+      "title": "Tirar Você De Mim",
+      "Artist": "Glória"
+    },
+    {
+      "Id": "-6yeNoNYGRY",
+      "title": "Inimigo Do Tempo",
+      "Artist": "Glória"
+    },
+    {
+      "Id": "Dub0nI1YX9M",
+      "title": "Vai Pagar Caro Por Me Conhecer",
+      "Artist": "Glória"
+    },
+    {
+      "Id": "RG6KeAOx0O8",
+      "title": "Diferente De Você",
+      "Artist": "Glória"
+    },
+    {
+      "Id": "ZfBQ7p7_YXU",
+      "title": "Sua Canção",
+      "Artist": "Glória"
+    },
+    {
+      "Id": "vEuQPjgoqBU",
+      "title": "Quando Tudo Terminar",
+      "Artist": "Glória"
+    },
+    {
+      "Id": "zKU-VK3cx2Y",
+      "title": "No Dia Em Que Deixei Você Vencer",
+      "Artist": "Glória"
+    }
+  ]
+}
 ] 
